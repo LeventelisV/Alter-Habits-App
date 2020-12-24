@@ -158,4 +158,4 @@ You will notice that submitting the form, will result in making an asynchronous 
 
 &emsp;&#8226;&emsp;**Dimitris Katsamagos** <a href="https://www.linkedin.com/in/dimitris-katsamagos/">LinkedIn</a> <a href="https://github.com/dkatsamagos">GitHub</a>\
 &emsp;&#8226;&emsp;**John Latsis** <a href="https://www.linkedin.com/in/john-latsis-19b437144/">LinkedIn</a> <a href="https://github.com/Latselot">GitHub</a>\
-&emsp;&#8226;&emsp;**Vaggelis Leventelis** <a href="https://www.linkedin.com/in/vaggelis-leventelis/">LinkedIn</a> <a href="https://github.com/LeventelisV">GitHub</a>
+&emsp;&#8226;&emsp;**Alexandros Kampos** <a href="https://www.linkedin.com/in/alexandros-kampos/">LinkedIn</a> <a href="https://github.com/alexkampos">GitHub</a>
